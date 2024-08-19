@@ -1,5 +1,5 @@
-Release/**
-Debug/**
-x64/**
-.vs/**
+Release/
+Debug/
+x64/
+.vs/
 *.user
